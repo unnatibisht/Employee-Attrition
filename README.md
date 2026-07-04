@@ -54,7 +54,7 @@ Based on the data-driven conclusions of this analysis, the following structural 
 
 ## 🛠️ Tech Stack
 *   **Language:** Python 🐍
-*   **Libraries:** Pandas 🐼, NumPy 🔢, Matplotlib 🎨, Seaborn 🌊
+*   **Libraries:** Pandas 🐼, Matplotlib 🎨, Seaborn 🌊
 *   **Environment:** Jupyter Notebook 📓
 
 ---
