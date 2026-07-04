@@ -1,4 +1,4 @@
-# # 📊 Employee Attrition Analysis & Prediction
+# 📊 Employee Attrition Analysis & Prediction
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Data Analysis](https://img.shields.io/badge/analysis-EDA-orange.svg)
@@ -31,6 +31,26 @@ The analysis systematically breaks down variables to isolate the primary catalys
 *   **📉 The Compensation Gap:** Grouping employees by income tiers shows a stark concentration of attrition within lower monthly income brackets. When pay does not scale alongside demanding roles, retention drops significantly.
 *   **🧗 Entry-Level Vulnerability:** Attrition rates are disproportionately high among lower Job Levels (Tiers 1 and 2). This signals a bottleneck where early-career talent departs due to a perceived lack of clear upward mobility or financial incentive.
 
+---
+
+## 📊 Key Visualizations & Data Insights
+### 1. Attrition Rate by Overtime Status ⏰
+This chart shows a clear connection between workload and employee turnover. Employees who work overtime are three times more likely to leave the company compared to those who work standard hours.
+
+<img width="1131" height="623" alt="Screenshot 2026-07-04 143238" src="https://github.com/user-attachments/assets/05f3ea20-d5a8-4c0d-a3d1-90726e82d87a" />
+
+
+### 2. Attrition Distribution by Monthly Income 💵
+This visualization highlights the financial gap. The data shows a heavy cluster of employee departures right at the lowest salary tiers, making baseline compensation a critical retention risk.
+
+<img width="1141" height="621" alt="Screenshot 2026-07-04 141943" src="https://github.com/user-attachments/assets/528d5181-1090-4d28-8554-32ac383fc3c5" />
+
+
+---
+
+## 🤔 Why I Chose These Graphs
+*   **The Overtime Bar Chart:** I chose this because it gives an immediate visual contrast. Seeing a 31.5% spike versus a 10.4% baseline instantly tells a clear story about workplace burnout.
+*   **The Income Distribution Chart:** Instead of just looking at average numbers, this chart actually maps out the exact target zone where the company is losing people. It clearly proves that the lowest-paid employees are the highest flight risks.
 ---
 
 ## ⚙️ Technical Workflow
